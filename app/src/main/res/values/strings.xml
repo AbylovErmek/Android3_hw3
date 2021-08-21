@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Android3_hw3</string>
+    <string name="group">Group</string>
+    <string name="user">User</string>
+    <string name="content">Content</string>
+    <string name="title">Title</string>
+    <string name="continue1">Continue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="change">Изменить</string>
+</resources>
